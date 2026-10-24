@@ -1,4 +1,4 @@
-# FulKay — GitHub Pages starter
+# FulKay - GitHub Pages starter
 
 A static personal portfolio and Knowledge Hub for **Fulgence Kayiranga**.
 
