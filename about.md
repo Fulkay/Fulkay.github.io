@@ -5,8 +5,8 @@ permalink: /about/
 ---
 <div class="page-heading wrap">
   <p class="eyebrow dark">ABOUT</p>
-  <h1>Curiosity, evidence and practical impact.</h1>
-  <p class="lead">I’m Fulgence Kayiranga, an insight analyst with an interest in applying data science, machine learning and technology to real-world questions.</p>
+  <h1>Curiosity, evidence and practical impact </h1>
+  <p class="lead">Hi I’m Fulgence, currently Senior Insight Analyst in the public sector with an interest in applying data science, machine learning and technology to real-world questions. Have held private sector  roles as economist and senior  analyst giving me a broad spectrum of domain knowledge to draw from. </p>
 </div>
 <div class="prose wrap" markdown="1">
 
