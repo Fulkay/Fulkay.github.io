@@ -13,7 +13,7 @@ permalink: /projects/
     <article class="feature-card">
       <span class="card-index">PROJECT CONCEPT · GEOSPATIAL</span>
       <h2>Walking accessibility to public libraries</h2>
-      <p>A proposed public-data demonstration of 5-, 10- and 15-minute walking accessibility using open street networks. Publication and project details are pending review.</p>
+      <p>A proposed public-data demonstration of 5, 10 and 15-minute walking accessibility using open street networks. Publication and project details are pending review.</p>
       <span class="status">Case study in preparation</span>
     </article>
     <article class="feature-card">
