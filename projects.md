@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <div class="page-heading wrap">
   <p class="eyebrow dark">SELECTED WORK</p>
-  <h1>Projects.</h1>
+  <h1>Projects</h1>
   <p class="lead">A growing portfolio of analytical methods, machine-learning experiments and practical applications.</p>
 </div>
 <section class="section wrap top-tight">
