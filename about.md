@@ -12,7 +12,7 @@ permalink: /about/
 
   This website brings together practical analytical projects, technical learning and writing in one place. The aim is to explain not just *what* a model or method does, but *why* it works, when it is useful and where its limitations lie.
 
-  <h2><strong>A note on published work</strong></h2>
+  <h3><strong>A note on published work</strong></h3>
 
   Examples and case studies shared here are independently prepared for educational purposes. Public-sector material will be published only where appropriate permissions and data safeguards are in place.
 </div>
