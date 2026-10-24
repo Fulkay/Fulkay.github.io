@@ -10,7 +10,6 @@ permalink: /about/
 </div>
 <div class="prose wrap" markdown="1">
 
-
   FulKay brings together practical analytical projects, technical learning and writing in one place. The aim is to explain not just *what* a model or method does, but *why* it works, when it is useful and where its limitations lie.
 
   ## A note on published work
