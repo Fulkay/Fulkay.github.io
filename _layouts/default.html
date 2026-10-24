@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="FulKay homepage">FulKay<span>.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/projects/' | relative_url }}">Projects</a>
+        <a href="{{ '/knowledge/' | relative_url }}">Knowledge Hub</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">{{ content }}</main>
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span>© {{ 'now' | date: '%Y' }} FulKay · Fulgence Kayiranga</span>
+      <span><a href="https://github.com/Fulkay" rel="noopener noreferrer">GitHub</a> · Independent writing and projects</span>
+    </div>
+  </footer>
+</body>
+</html>

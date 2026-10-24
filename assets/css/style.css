@@ -1,0 +1,24 @@
+/* FulKay: original static site starter; no external libraries or tracking */
+:root{--navy:#15253b;--navy-deep:#101d30;--gold:#c6a16a;--ivory:#f7f6f2;--ink:#233247;--muted:#617085;--line:#e2e5e8}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;color:var(--ink);background:#fff;font:16px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+a{color:inherit}a:focus-visible{outline:3px solid var(--gold);outline-offset:4px}.wrap{max-width:1120px;margin:0 auto;padding-left:28px;padding-right:28px}
+.skip-link{position:absolute;left:-9999px;top:0;background:#fff;color:#111;padding:10px;z-index:10}.skip-link:focus{left:10px}
+.site-header{background:var(--navy);color:white}.header-inner{display:flex;align-items:center;justify-content:space-between;gap:25px;padding-top:26px;padding-bottom:26px;border-bottom:1px solid #ffffff20}
+.wordmark{font-size:29px;letter-spacing:-1.1px;font-weight:700;text-decoration:none;line-height:1}.wordmark span,.gold{color:var(--gold)}
+nav{display:flex;gap:29px;flex-wrap:wrap}nav a{text-decoration:none;color:#e1e7ef;font-size:13px;font-weight:650}nav a:hover{color:var(--gold)}
+.hero{background:var(--navy);color:#fff}.hero-inner{padding-top:94px;padding-bottom:108px}.eyebrow{font-size:12px;letter-spacing:1.4px;font-weight:750;color:var(--gold);margin:0 0 18px}.eyebrow.dark{color:#9c7644}
+h1,h2,h3,p{margin-top:0}h1,h2,h3{line-height:1.2;letter-spacing:-.7px}h1{font-size:clamp(42px,6vw,72px);max-width:900px;margin-bottom:23px}h2{font-size:clamp(28px,3.6vw,41px)}h3{font-size:23px}
+.hero-subtitle{font-size:clamp(20px,2.6vw,29px);max-width:810px;line-height:1.48;color:#dce4ee;margin-bottom:21px}
+.hero-description{max-width:690px;color:#afbdcd;font-size:17px}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:34px}
+.button{display:inline-block;text-decoration:none;border-radius:5px;padding:12px 19px;font-size:14px;font-weight:700}.button-primary{background:var(--gold);color:#17243a}.button-outline{border:1px solid #9daab9;color:#fff}.button:hover{filter:brightness(1.08)}
+.section{padding-top:84px;padding-bottom:86px}.section-heading{max-width:760px;margin-bottom:32px}.section-heading>p:last-child{color:var(--muted);font-size:18px}
+.cards{display:grid;gap:20px}.cards.three{grid-template-columns:repeat(3,minmax(0,1fr))}.cards.two{grid-template-columns:repeat(2,minmax(0,1fr))}
+.feature-card{display:block;padding:31px;border:1px solid var(--line);border-radius:9px;text-decoration:none;background:#fff;min-height:250px}
+a.feature-card:hover{border-color:var(--gold);box-shadow:0 10px 28px #14243a10}.feature-card h2{font-size:24px}.feature-card p{color:var(--muted);margin-bottom:25px}
+.card-index{display:block;font-size:11px;letter-spacing:1px;font-weight:750;color:#9c7644;margin-bottom:20px}.card-link,.text-link{color:#8c6738;font-weight:750;text-decoration:none}.status{font-size:13px;color:#8c6738;font-weight:650}
+.section-tinted{background:var(--ivory)}.split{display:grid;grid-template-columns:1fr 1fr;gap:75px}.split p{font-size:17px;color:var(--muted)}
+.page-heading{padding-top:83px;padding-bottom:43px}.page-heading h1{font-size:clamp(40px,5vw,64px)}.lead{font-size:22px;color:var(--muted);max-width:850px;line-height:1.55}
+.prose{max-width:880px;padding-bottom:100px;font-size:18px}.prose h2{font-size:29px;margin-top:40px}.prose p{color:#4d5b6c}
+.top-tight{padding-top:10px}.note{background:var(--ivory);border-left:3px solid var(--gold);margin-top:28px;padding:20px;color:#536174}
+.site-footer{background:var(--navy-deep);color:#bac6d5}.footer-inner{display:flex;justify-content:space-between;gap:20px;padding-top:29px;padding-bottom:29px;font-size:13px}.footer-inner a{color:#e4e9ef}
+@media(max-width:760px){.header-inner{align-items:flex-start;flex-direction:column}.hero-inner{padding-top:64px;padding-bottom:75px}.cards.three,.cards.two,.split{grid-template-columns:1fr}.section{padding-top:56px;padding-bottom:58px}.footer-inner{flex-direction:column}.wrap{padding-left:20px;padding-right:20px}nav{gap:15px}.feature-card{min-height:unset}.page-heading{padding-top:56px}}

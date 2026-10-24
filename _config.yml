@@ -1,0 +1,9 @@
+title: "FulKay"
+description: "Insight through data. Exploring machine learning, artificial intelligence and the technologies shaping our world."
+url: "https://Fulkay.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - PUBLISHING_GUIDE.md
