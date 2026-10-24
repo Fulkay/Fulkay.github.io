@@ -5,7 +5,7 @@ permalink: /knowledge/
 ---
 <div class="page-heading wrap">
   <p class="eyebrow dark">PRACTICAL KNOWLEDGE, SHARED</p>
-  <h1>Knowledge Hub.</h1>
+  <h1>Knowledge Hub</h1>
   <p class="lead">Case studies, tutorials, guides and ideas to help turn analytical methods into practical understanding.</p>
 </div>
 <section class="section wrap top-tight">

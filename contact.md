@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 <div class="page-heading wrap">
   <p class="eyebrow dark">CONNECT</p>
-  <h1>Let’s exchange ideas.</h1>
+  <h1>Let’s exchange ideas</h1>
   <p class="lead">Interested in data science, public-sector analytics or practical machine learning? You can find my work on GitHub.</p>
 </div>
 <div class="prose wrap">
